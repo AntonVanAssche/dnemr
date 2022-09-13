@@ -3,7 +3,7 @@
       Do Not Enter My Room
    </h1>
    <p align="center">
-      You guessed it, I got bored again so I made a shitty alarm using my Arduino UNO.
+      You guessed it, I got bored again so I made a <s>shitty</s> alarm using my Arduino UNO.
    </p>
    <img src="./assets/alarm-preview.gif">
 </div>
