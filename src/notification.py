@@ -5,7 +5,7 @@ import serial
 sent = False
 
 def send_notification():
-    discord_webhook_url = 'https://discord.com/api/webhooks/1019241011270131762/8SLh5P3S47vEN4KOEQNiP-fawbwssHYkEXvOXPuE308UhoCTYW0I9QIA2mUyhCrqh21M'
+    discord_webhook_url = 'YOUR_WEBHOOK_URL'
     Message = {
         "content": "Alarm triggered!",
     }
