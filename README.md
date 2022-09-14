@@ -64,6 +64,8 @@ Now that we are able to read the serial output using Python it's time to setup t
 When we detect the line `Alarm triggered!`, we want to send the notification.
 To send the notification we will use a Discord server Webhook.
 
+**NOTE**: Make sure you add **YOUR** Discord Webhook URL to the Python script.
+
 ```
 $ python3 notification.py
 ```
